@@ -3,7 +3,7 @@
 ###
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Shrii0807&show_icons=true&theme=transparent" alt="Shrishti's GitHub stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Shrii0807&show_icons=true&theme=transparent" alt="Shrii0807's GitHub stats" />
 </div>
 
 ###
