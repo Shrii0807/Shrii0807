@@ -4,6 +4,7 @@
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Shrii0807&show_icons=true&theme=transparent" alt="Shrii0807's GitHub stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Shrii0807)](https://github.com/Shrii0807/github-readme-stats)"/>
 </div>
 
 ###
