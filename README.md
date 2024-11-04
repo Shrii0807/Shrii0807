@@ -3,8 +3,8 @@
 ###
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Shrii0807&show_icons=true&theme=transparent" alt="Shrii0807's GitHub stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Shrii0807)](https://github.com/Shrii0807/github-readme-stats)"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=Shrii0807&show_icons=true&theme=transparent" alt="Shrishti's GitHub stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Shrii0807" alt="Top Languages" />
 </div>
 
 ###
@@ -15,6 +15,8 @@
 
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="30" alt="python logo" />
+  <img width="12" />
+  <img src="https://upload.wikimedia.org/wikipedia/commons/3/38/Jupyter_logo.svg" height="30" alt="python logo" />
   <img width="12" />
   <img src="https://w7.pngwing.com/pngs/956/695/png-transparent-mongodb-original-wordmark-logo-icon-thumbnail.png" height="30" alt="mongoDB logo" />
   <img width="12" />
