@@ -1,4 +1,20 @@
-<h2 align="left">Hi 👋! My name is Shrishti Tayde and I'm an AI/ML enthusiast from India.</h2>
+<h2 align="center">Hi 👋! I'm Shrishti</h2>
+<h3 align="center">A passionate AI/ML Enthusiast from India</h3>
+
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=shrii0807" alt="shrii0807" /></a> </p>
+
+- 🔭 I’m currently working on **AI/ML models**
+
+- 🌱 I’m currently learning **Generative AI models**
+
+- 💬 Ask me about **python, ML, mongoDB and related fields**
+
+- 📫 How to reach me **shrishtitayade@gmail.com**
+
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://linkedin.com/in/shrishti tayde" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="shrishti tayde" height="30" width="40" /></a>
+</p>
 
 ###
 
