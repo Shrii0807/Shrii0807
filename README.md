@@ -39,16 +39,48 @@
 
 
 ###
+<h3 align="left">My Code Corners:</h3>
+<div align="left" style="display: flex; gap: 20px; padding: 10px 0;">
+  <a href="https://www.hackerrank.com/profile/shrishtitayade" target="_blank">
+    <img src="https://www.svgrepo.com/show/330599/hackerrank.svg" alt="HackerRank" height="40" width="40" />
+  </a>
+  <a href="https://www.geeksforgeeks.org/user/shrishti1irg/" target="_blank">
+    <img src="https://img.icons8.com/?size=48&id=AbQBhN9v62Ob&format=png" alt="GeeksForGeeks" height="40" width="40" />
+  </a>
+  <a href="https://www.codechef.com/users/shrii777" target="_blank">
+    <img src="https://img.icons8.com/?size=50&id=vAtJFm3hwtQw&format=png" alt="CodeChef" height="40" width="40" />
+  </a>
+  <a href="https://leetcode.com/u/Shrii_0807/" target="_blank">
+    <img src="https://img.icons8.com/?size=80&id=fiCYSJOnXi7E&format=png" alt="LeetCode" height="40" width="40" />
+  </a>
+</div>
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/shrishti tayde" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="shrishti tayde" height="30" width="40" /></a>
-</p>
+<h3 align="left">Find me here!!!:</h3>
+<div align="left" style="display: flex; gap: 20px; padding: 10px 0;">
+  <a href="https://linkedin.com/in/shrishti tayde" target="_blank">
+    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40" />
+  </a>
+  <a href="https://x.com/Shrii0807" target="_blank">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/5/53/X_logo_2023_original.svg/300px-X_logo_2023_original.svg.png?20230728155658" alt="X (formerly Twitter)" height="30" width="30" />
+  </a>
+  <a href="https://www.quora.com/profile/Shrishti-Tayade" target="_blank">
+    <img src="https://www.vectorlogo.zone/logos/quora/quora-icon.svg" alt="Quora" height="30" width="40" />
+  </a>
+  <a href="https://in.pinterest.com/shrishtitayade/" target="_blank">
+    <img src="https://www.svgrepo.com/show/183616/pinterest.svg" alt="Pinterest" height="30" width="40" />
+  </a>
+  <a href="https://medium.com/@shrishtitayade" target="_blank">
+    <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQiix8XOZ_wZxRWWcSuaKdxR9Ya7Q7EiBm33Q&s" alt="Medium" height="30" width="30" />
+  </a>
+  <a href="https://www.instagram.com/shrii0807?igsh=Z3Brdnc2aXFvampm" target="_blank">
+    <img src="https://uxwing.com/wp-content/themes/uxwing/download/brands-and-social-media/ig-instagram-icon.png" alt="Instagram" height="30" width="30" />
+  </a>
+</div>
 
 ###
 <div align="center">
   <img src="https://streak-stats.demolab.com?user=Shrii0807&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5&order=3" width="45%" height="220" alt="streak graph" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Shrii0807&theme=dark&hide_border=false&border_radius=5&order=3" width="45%" height="200" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Shrii0807&theme=dark&hide_border=false&border_radius=5&order=3" width="45%" height="220" alt="Top Languages" />
 </div>
 
 
