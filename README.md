@@ -57,7 +57,7 @@
 
 <h3 align="left">Find me here!!!:</h3>
 <div align="left" style="display: flex; gap: 20px; padding: 10px 0;">
-  <a href="https://linkedin.com/in/shrishti tayde" target="_blank">
+  <a href="https://linkedin.com/in/shrishtitayde" target="_blank">
     <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40" />
   </a>
   <a href="https://x.com/Shrii0807" target="_blank">
